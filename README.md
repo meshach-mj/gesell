@@ -2,6 +2,12 @@
 
 A demurrage currency where holding costs you and spending saves you.
 
+## Deployed Contract
+
+| Network | Address |
+|---------|---------|
+| Base | [0xb8001Eea9C4D01570b7F0B8DA5e194C4061aeCc9](https://basescan.org/address/0xb8001Eea9C4D01570b7F0B8DA5e194C4061aeCc9) |
+
 ## What is Gesell?
 
 Gesell is a cryptocurrency that implements Silvio Gesell's 1916 theory of "free money" — currency that loses value over time to encourage circulation.
