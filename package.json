@@ -1,0 +1,29 @@
+{
+  "name": "gesell",
+  "version": "1.0.0",
+  "description": "A demurrage currency that decays over time to encourage circulation",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:base": "hardhat run scripts/deploy.js --network base",
+    "deploy:base-sepolia": "hardhat run scripts/deploy.js --network baseSepolia"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "demurrage",
+    "gesell",
+    "currency",
+    "base"
+  ],
+  "author": "Meshach",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
